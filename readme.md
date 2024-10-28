@@ -17,8 +17,7 @@ This project is a modified version of the classic Dino game, which allows for an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dino-game-infinite.git
-   cd dino-game-infinite
+   git clone https://github.com/Leslie-23/ChromeDino-cheatCode.git
    ```
 
 2. Open the game in a browser and play as usual. The game will not end automatically upon crashes or obstacles.
